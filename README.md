@@ -9,7 +9,7 @@
 * [Toward higher-level abstractions for software systems](http://www.cs.cmu.edu/~Compose/shaw_polytech_88.pdf)
 
 ## Paradigms
-* [The 4+1 View Model of Architecture, 1995)[http://www.inf.ed.ac.uk/teaching/courses/seoc/2006_2007/resources/Mod_5ViewModel.pdf]
+* [The 4+1 View Model of Architecture, 1995](http://www.inf.ed.ac.uk/teaching/courses/seoc/2006_2007/resources/Mod_5ViewModel.pdf)
 
 ## Principles
 * [Unix Philosophy](http://www.faqs.org/docs/artu/philosophychapter.html)
